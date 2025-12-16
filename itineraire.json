@@ -1,0 +1,112 @@
+{
+  "pays": "Îles Féroé",
+  "drapeau": "🇫🇴",
+  "symbole": "🐑",
+  "titre": "Échappée Mystique aux Féroé",
+  "budget_total": "790€",
+  "duree": "1 jour",
+  "temps_vol": "5h avec escale depuis Paris, France",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Immersion Express sur l'île de Vágar",
+      "legende": "Découvrez en une journée l'essence brute des Îles Féroé, en vous concentrant sur les paysages emblématiques de l'île de Vágar. Entre cascades majestueuses et falaises vertigineuses, cette escapade éclair vous laissera un souvenir impérissable de la nature féroïenne. Une expérience intense, optimisée pour un temps limité, mais riche en émotions et en panoramas à couper le souffle. Préparez-vous à une journée dense et mémorable.",
+      "lieu": "Île de Vágar",
+      "activites": [
+        "🛬 <strong>Arrivée et prise en charge du véhicule</strong>: Atterrissez à l'aéroport de Vágar, récupérez votre voiture de location et préparez-vous à explorer les merveilles naturelles à portée de main. L'aéroport est le point de départ idéal pour votre aventure féroïenne.",
+        "🏞️ <strong>Randonnée à la cascade de Múlafossur</strong>: Admirez l'emblématique cascade de Múlafossur à Gásadalur, où l'eau se jette directement dans l'océan depuis une falaise verdoyante. Ce site offre un panorama spectaculaire et est facilement accessible pour une première immersion dans la beauté féroïenne.",
+        "🚶‍♀️ <strong>Découverte du lac suspendu de Sørvágsvatn (Trælanípa)</strong>: Partez pour une randonnée modérée jusqu'à Trælanípa, d'où vous pourrez observer l'incroyable illusion d'optique du lac Sørvágsvatn semblant flotter au-dessus de l'océan. C'est une vue emblématique des Féroé, offrant des photos uniques et des souvenirs mémorables avant votre départ."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Transport",
+          "texte": "La location de voiture est indispensable pour explorer les Féroé, même pour une journée. Les routes sont bien entretenues mais sinueuses et les tunnels sous-marins sont payants."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Conseil rapide",
+          "texte": "Prévoyez des vêtements chauds et imperméables, la météo peut changer très rapidement aux Féroé, même en été. Les couches sont vos meilleures amies."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Optimisation",
+          "texte": "Pour un séjour d'une journée, concentrez-vous sur l'île de Vágar pour minimiser les temps de trajet et maximiser votre expérience."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "550€/pers (Vol A/R Paris-Vágar avec escale, classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "110€/pers (Location de voiture pour 1 jour + essence et péages de tunnels)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "80€/pers (Déjeuner et dîner dans des établissements locaux, type café/restaurant)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "0€/pers (Pas de nuitée prévue pour un séjour d'une journée)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "50€/pers (Frais d'accès pour certaines randonnées ou sites comme Trælanípa)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de juin, juillet et août, offrant les jours les plus longs et les températures les plus clémentes.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population des Îles Féroé est d'environ 54 000 habitants, avec une forte identité culturelle et une langue unique, le féroïen, proche de l'islandais.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "Les Féroé sont un territoire autonome du Royaume du Danemark, mais ne font pas partie de l'Union Européenne. La monnaie est la Couronne Danoise (DKK).",
+      "symbole": "🇩🇰"
+    },
+    {
+      "titre": "Les moutons sont plus nombreux que les habitants aux Féroé, ce qui explique leur omniprésence dans le paysage et sur les routes. Soyez vigilant en conduisant.",
+      "symbole": "🐑"
+    },
+    {
+      "titre": "Les maisons traditionnelles aux toits de tourbe sont une caractéristique architecturale fascinante, conçues pour l'isolation et l'intégration au paysage. Elles sont un symbole fort de l'archipel.",
+      "symbole": "🏠"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations touristiques officielles des Féroé",
+      "titre": "Visit Faroe Islands",
+      "url": "https://visitfaroeislands.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Prévisions météo locales pour l'aéroport de Vágar",
+      "titre": "Météo Féroé (YR.no)",
+      "url": "https://www.yr.no/en/forecast/daily-table/2-2610731/Faroe%20Islands/V%C3%A1gar%20municipality/V%C3%A1gar%20airport",
+      "symbole": "🌤️"
+    },
+    {
+      "legende": "Informations sur la location de voiture à l'aéroport de Vágar",
+      "titre": "Location de voiture FAE",
+      "url": "https://www.vagarairport.fo/en/travel-info/car-rental/",
+      "symbole": "🚗"
+    }
+  ]
+}
